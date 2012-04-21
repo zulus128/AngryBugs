@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/UserSetting
+END
+OFUserSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/UserSetting/OFUserSetting.h
+END
+OFUserSettingService.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/UserSetting/OFUserSettingService.h
+END
+OFUserSetting.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/UserSetting/OFUserSetting.mm
+END
+OFUserSettingService.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/UserSetting/OFUserSettingService.mm
+END
+OFUserSettingPushController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/UserSetting/OFUserSettingPushController.h
+END
+OFUserSettingPushController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/UserSetting/OFUserSettingPushController.mm
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include
+END
+OFRequestHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFRequestHandle.h
+END
+OFLeaderboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFLeaderboard.h
+END
+OFInviteDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFInviteDefinition.h
+END
+OFPlayedGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFPlayedGame.h
+END
+OFHighScore.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFHighScore.h
+END
+OFSocialNotificationApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFSocialNotificationApi.h
+END
+OFScoreEnumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFScoreEnumerator.h
+END
+OFUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFUser.h
+END
+OFDistributedScoreEnumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFDistributedScoreEnumerator.h
+END
+OFCurrentUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFCurrentUser.h
+END
+OFChallenge.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFChallenge.h
+END
+OFChallengeToUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFChallengeToUser.h
+END
+OFAchievement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFAchievement.h
+END
+OFAnnouncement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFAnnouncement.h
+END
+OFCloudStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFCloudStorage.h
+END
+OFChallengeDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFChallengeDefinition.h
+END
+OFAbridgedHighScore.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFAbridgedHighScore.h
+END
+OFInvite.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFInvite.h
+END
+OFForumPost.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/include/OFForumPost.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases
+END
+OFResource+Overridables.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFResource+Overridables.h
+END
+OFXmlResourceWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFXmlResourceWriter.h
+END
+OFResource+Overridables.mm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFResource+Overridables.mm
+END
+OFService+Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFService+Private.h
+END
+OFResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFResource.h
+END
+OFXmlResourceWriter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFXmlResourceWriter.mm
+END
+OFService+Private.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFService+Private.mm
+END
+OFResource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFResource.mm
+END
+OFService+Overridables.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFService+Overridables.h
+END
+OFService+Overridables.mm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFService+Overridables.mm
+END
+OFService.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFService.h
+END
+OFService.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Services/Bases/OFService.mm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/Reachability
+END
+OFReachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/Reachability/OFReachability.h
+END
+OFIReachabilityObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/Reachability/OFIReachabilityObserver.h
+END
+OFReachability.mm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/Reachability/OFReachability.mm
+END
+OFIReachabilityObserver.mm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/Reachability/OFIReachabilityObserver.mm
+END

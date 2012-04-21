@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends
+END
+OFSelectContactsToInviteController.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectContactsToInviteController.h
+END
+OFSelectInviteTypeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectInviteTypeController.h
+END
+OFInviteFriendsHeaderController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteFriendsHeaderController.mm
+END
+OFInviteNotificationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteNotificationController.h
+END
+OFInvitationsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInvitationsController.h
+END
+OFInviteFriendsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteFriendsController.h
+END
+OFInviteCompleteController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteCompleteController.mm
+END
+OFContactCell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFContactCell.mm
+END
+OFSelectContactsToInviteHeaderController.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectContactsToInviteHeaderController.h
+END
+OFSelectInviteTypeHeaderController.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectInviteTypeHeaderController.h
+END
+OFSelectableContactCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectableContactCell.h
+END
+OFViewInviteController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFViewInviteController.mm
+END
+OFInviteCell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteCell.mm
+END
+OFSelectFriendsToInviteController.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectFriendsToInviteController.h
+END
+OFSelectInviteTypeCell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectInviteTypeCell.mm
+END
+OFSelectContactsToInviteController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectContactsToInviteController.mm
+END
+OFInviteFriendsHeaderController.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteFriendsHeaderController.h
+END
+OFSelectInviteTypeController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectInviteTypeController.mm
+END
+OFInviteNotificationController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteNotificationController.mm
+END
+OFInviteCompleteController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteCompleteController.h
+END
+OFContactCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFContactCell.h
+END
+OFInvitationsController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInvitationsController.mm
+END
+OFViewInviteController.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFViewInviteController.h
+END
+OFInviteCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteCell.h
+END
+OFInviteFriendsController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFInviteFriendsController.mm
+END
+OFSelectContactsToInviteHeaderController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectContactsToInviteHeaderController.mm
+END
+OFSelectInviteTypeHeaderController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectInviteTypeHeaderController.mm
+END
+OFSelectInviteTypeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectInviteTypeCell.h
+END
+OFSelectableContactCell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectableContactCell.mm
+END
+OFSelectFriendsToInviteController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/InviteFriends/OFSelectFriendsToInviteController.mm
+END

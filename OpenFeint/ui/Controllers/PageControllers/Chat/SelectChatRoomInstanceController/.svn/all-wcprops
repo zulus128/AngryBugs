@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/SelectChatRoomInstanceController
+END
+OFSelectChatRoomInstanceController.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/SelectChatRoomInstanceController/OFSelectChatRoomInstanceController.h
+END
+OFSelectChatRoomInstanceController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/SelectChatRoomInstanceController/OFSelectChatRoomInstanceController.mm
+END
+OFChatRoomInstanceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/SelectChatRoomInstanceController/OFChatRoomInstanceCell.h
+END
+OFChatRoomInstanceCell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/SelectChatRoomInstanceController/OFChatRoomInstanceCell.mm
+END

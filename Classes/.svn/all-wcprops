@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes
+END
+ScoreScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/ScoreScene.h
+END
+GameScene1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myownapple_xcoded/!svn/ver/8/AngryBugs/Classes/GameScene1.mm
+END
+SoundSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SoundSupport.m
+END
+PauseScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/PauseScene.h
+END
+LifeLine.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/LifeLine.m
+END
+Common.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/Common.m
+END
+Beetle.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/Beetle.h
+END
+PauseScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/PauseScene.m
+END
+BeetlesAppDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/BeetlesAppDelegate.mm
+END
+AnimScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/AnimScene.h
+END
+AngryBugsOFDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/AngryBugsOFDelegate.mm
+END
+MenuScene.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/MenuScene.mm
+END
+Beetle.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/Beetle.m
+END
+AnimScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myownapple_xcoded/!svn/ver/10/AngryBugs/Classes/AnimScene.m
+END
+GameScene1.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/GameScene1.h
+END
+SplashScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SplashScene.h
+END
+SoundEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SoundEngine.cpp
+END
+ScoreScene.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/ScoreScene.mm
+END
+SplashScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SplashScene.m
+END
+SoundEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SoundEngine.h
+END
+BeetlesAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/BeetlesAppDelegate.h
+END
+SupergunLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SupergunLine.h
+END
+AngryBugsOFDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/AngryBugsOFDelegate.h
+END
+MenuScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/MenuScene.h
+END
+SoundSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SoundSupport.h
+END
+SupergunLine.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/SupergunLine.m
+END
+LifeLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/LifeLine.h
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/Classes/Common.h
+END

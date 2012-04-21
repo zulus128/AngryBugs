@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common
+END
+OFRTTIRepository.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFRTTIRepository.mm
+END
+OFRTTI.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFRTTI.mm
+END
+OFHashedString.mm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFHashedString.mm
+END
+OFDelegateChained.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFDelegateChained.mm
+END
+OFSmartObject.inl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFSmartObject.inl
+END
+OFDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFDelegate.h
+END
+OFBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFBase.h
+END
+OFStringUtility.mm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFStringUtility.mm
+END
+OFSmartObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFSmartObject.h
+END
+OFPointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFPointer.h
+END
+OFCallbackable.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFCallbackable.h
+END
+OFRetainedPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFRetainedPtr.h
+END
+OFLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFLog.h
+END
+OFRTTIRepository.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFRTTIRepository.h
+END
+OFRTTI.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFRTTI.h
+END
+OFHashedString.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFHashedString.h
+END
+OFDelegateChained.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFDelegateChained.h
+END
+OFStringUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFStringUtility.h
+END
+OFDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFDelegate.mm
+END
+OFSmartObject.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFSmartObject.mm
+END
+OFLog.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Common/OFLog.mm
+END

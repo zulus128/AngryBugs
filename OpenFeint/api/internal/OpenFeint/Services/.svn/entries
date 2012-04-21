@@ -1,0 +1,215 @@
+10
+
+dir
+7
+http://zulus@myownapple.unfuddle.com/svn/myownapple_xcoded/AngryBugs/OpenFeint/api/internal/OpenFeint/Services
+http://zulus@myownapple.unfuddle.com/svn/myownapple_xcoded
+
+
+
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e04ca137-c1ef-44cd-8664-ed933ba483a0
+
+OFGameCenterAchievement.mm
+file
+
+
+
+
+2010-12-16T08:31:43.000000Z
+cf52fe96d7b78064af73c65dfc34106b
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6018
+
+SocialNotification
+dir
+
+OFGameCenterHighScore.h
+file
+
+
+
+
+2010-12-16T08:31:43.000000Z
+ab430c12e3605b6ed41637d126b88a02
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2066
+
+Offline
+dir
+
+Achievement
+dir
+
+Pagination
+dir
+
+Bases
+dir
+
+OFGameCenterAchievement.h
+file
+
+
+
+
+2010-12-16T08:31:43.000000Z
+b86b4ad2e704955281983e945ae49098
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1615
+
+ServerNotifications
+dir
+
+ClientApplication
+dir
+
+Sectioning
+dir
+
+OFGameCenterHighScore.mm
+file
+
+
+
+
+2010-12-16T08:31:43.000000Z
+226cc09deabe392f3471bdf019d3d384
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5403
+
+Leaderboard
+dir
+
+Discovery
+dir
+
+Subscriptions
+dir
+
+Conversation
+dir
+
+Forums
+dir
+
+HighScore
+dir
+
+Bootstrap
+dir
+
+Announcements
+dir
+
+User
+dir
+

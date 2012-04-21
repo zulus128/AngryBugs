@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums
+END
+OFForumTopic.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFForumTopic.h
+END
+OFOnlineStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFOnlineStatus.h
+END
+OFForumService.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFForumService.h
+END
+OFForumTopic.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFForumTopic.mm
+END
+OFOnlineStatus.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFOnlineStatus.mm
+END
+OFForumService.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFForumService.mm
+END
+OFForumThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFForumThread.h
+END
+OFForumThread.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/Forums/OFForumThread.mm
+END

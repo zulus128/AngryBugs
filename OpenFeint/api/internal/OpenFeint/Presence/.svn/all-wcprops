@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence
+END
+OFPresenceService.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFPresenceService.h
+END
+OFAsyncSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFAsyncSocket.h
+END
+OFPresenceService.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFPresenceService.mm
+END
+OFPresenceQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFPresenceQueue.h
+END
+OFAsyncSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFAsyncSocket.m
+END
+OFPresenceQueue.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFPresenceQueue.mm
+END
+OFCRVStompClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFCRVStompClient.h
+END
+OFCRVStompClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Presence/OFCRVStompClient.m
+END

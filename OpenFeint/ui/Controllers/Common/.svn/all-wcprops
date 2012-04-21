@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common
+END
+OFWebViewController+Overridables.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFWebViewController+Overridables.h
+END
+OFWebViewController+Overridables.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFWebViewController+Overridables.mm
+END
+OFShowMessageAndReturnController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFShowMessageAndReturnController.h
+END
+OFWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFWebViewController.h
+END
+OFShowMessageAndReturnController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFShowMessageAndReturnController.mm
+END
+OFWebViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFWebViewController.mm
+END
+OFLoadingController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFLoadingController.h
+END
+OFLoadingController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/OFLoadingController.mm
+END

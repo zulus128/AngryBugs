@@ -1,0 +1,168 @@
+10
+
+dir
+7
+http://zulus@myownapple.unfuddle.com/svn/myownapple_xcoded/AngryBugs/OpenFeint/api
+http://zulus@myownapple.unfuddle.com/svn/myownapple_xcoded
+
+
+
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e04ca137-c1ef-44cd-8664-ed933ba483a0
+
+SocialNotification
+dir
+
+Ticker
+dir
+
+Challenge
+dir
+
+ChatMessage
+dir
+
+PushNotification
+dir
+
+OFDeviceContact.h
+file
+
+
+
+
+2010-12-16T08:31:48.000000Z
+8d6b41dc03a92a84501a681a2b5732a1
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1340
+
+Achievement
+dir
+
+Friends
+dir
+
+CloudStorage
+dir
+
+ChallengeDefinition
+dir
+
+UsersCredential
+dir
+
+Invite
+dir
+
+Profile
+dir
+
+NewsletterSubscription
+dir
+
+ClientApplication
+dir
+
+Leaderboard
+dir
+
+ApplicationDescription
+dir
+
+OFDeviceContact.mm
+file
+
+
+
+
+2010-12-16T08:31:48.000000Z
+d752d9174c27c65157aa6cd5b5a423a3
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1078
+
+HighScore
+dir
+
+Forums
+dir
+
+ChatRoom
+dir
+
+UserSetting
+dir
+
+internal
+dir
+
+Announcements
+dir
+
+PlayerReview
+dir
+
+USer
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/ChatMessage
+END
+OFChatMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/ChatMessage/OFChatMessage.h
+END
+OFChatMessageService.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/ChatMessage/OFChatMessageService.h
+END
+OFChatMessage.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/ChatMessage/OFChatMessage.mm
+END
+OFChatMessageService.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/ChatMessage/OFChatMessageService.mm
+END

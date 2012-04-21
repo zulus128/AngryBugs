@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ControllerHelpers/TableSequenceControllerHelper
+END
+OFTableSequenceControllerHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ControllerHelpers/TableSequenceControllerHelper/OFTableSequenceControllerHelper.h
+END
+OFTableSequenceControllerHelper+ViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ControllerHelpers/TableSequenceControllerHelper/OFTableSequenceControllerHelper+ViewDelegate.h
+END
+OFTableSequenceControllerHelper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ControllerHelpers/TableSequenceControllerHelper/OFTableSequenceControllerHelper.mm
+END
+OFTableSequenceControllerHelper+ViewDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ControllerHelpers/TableSequenceControllerHelper/OFTableSequenceControllerHelper+ViewDelegate.mm
+END
+OFTableSequenceControllerHelper+Overridables.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ControllerHelpers/TableSequenceControllerHelper/OFTableSequenceControllerHelper+Overridables.h
+END
+OFTableSequenceControllerHelper+Overridables.mm
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ControllerHelpers/TableSequenceControllerHelper/OFTableSequenceControllerHelper+Overridables.mm
+END

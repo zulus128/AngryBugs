@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Achievement
+END
+OFAchievementListController.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Achievement/OFAchievementListController.h
+END
+OFAchievementListController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Achievement/OFAchievementListController.mm
+END
+OFAchievementCompareListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Achievement/OFAchievementCompareListCell.h
+END
+OFAchievementCompareListCell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Achievement/OFAchievementCompareListCell.mm
+END
+OFAchievementProgressionList.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Achievement/OFAchievementProgressionList.h
+END
+OFAchievementProgressionList.mm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Achievement/OFAchievementProgressionList.mm
+END

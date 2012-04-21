@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/ChatRoomController
+END
+OFChatRoomMessageBoxController.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/ChatRoomController/OFChatRoomMessageBoxController.h
+END
+OFChatRoomController.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/ChatRoomController/OFChatRoomController.h
+END
+OFChatRoomMessageBoxController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/ChatRoomController/OFChatRoomMessageBoxController.mm
+END
+OFChatRoomChatMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/ChatRoomController/OFChatRoomChatMessageCell.h
+END
+OFChatRoomController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/ChatRoomController/OFChatRoomController.mm
+END
+OFChatRoomChatMessageCell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/PageControllers/Chat/ChatRoomController/OFChatRoomChatMessageCell.mm
+END

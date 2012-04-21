@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider
+END
+OFActionRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFActionRequest.h
+END
+OFActionRequest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFActionRequest.mm
+END
+OFActionRequestType.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFActionRequestType.h
+END
+OFReachabilityObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFReachabilityObserver.h
+END
+OFProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFProvider.h
+END
+OFReachabilityObserver.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFReachabilityObserver.mm
+END
+OFProvider.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFProvider.mm
+END
+OFProviderProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Provider/OFProviderProtocol.h
+END

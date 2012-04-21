@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications
+END
+OFInputResponsePushController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFInputResponsePushController.mm
+END
+OFChallengeNotificationView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFChallengeNotificationView.mm
+END
+OFNotification.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotification.mm
+END
+OFInputResponseOpenDashboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFInputResponseOpenDashboard.h
+END
+OFServerNotificationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFServerNotificationView.h
+END
+OFInputResponsePerformSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFInputResponsePerformSelector.h
+END
+OFDashboardNotificationView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFDashboardNotificationView.mm
+END
+OFAchievementNotificationView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFAchievementNotificationView.mm
+END
+OFNotificationStatus.mm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotificationStatus.mm
+END
+OFServerNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFServerNotification.h
+END
+OFNotificationData.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotificationData.h
+END
+OFNotificationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotificationView.h
+END
+OFInputResponsePushController.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFInputResponsePushController.h
+END
+OFChallengeNotificationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFChallengeNotificationView.h
+END
+OFNotificationInputResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotificationInputResponse.h
+END
+OFNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotification.h
+END
+OFDashboardNotificationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFDashboardNotificationView.h
+END
+OFInputResponseOpenDashboard.mm
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFInputResponseOpenDashboard.mm
+END
+OFAchievementNotificationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFAchievementNotificationView.h
+END
+OFNotificationStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotificationStatus.h
+END
+OFServerNotificationView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFServerNotificationView.mm
+END
+OFInputResponsePerformSelector.mm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFInputResponsePerformSelector.mm
+END
+OFServerNotification.mm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFServerNotification.mm
+END
+OFNotificationData.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotificationData.mm
+END
+OFNotificationView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/OpenFeint/Notifications/OFNotificationView.mm
+END

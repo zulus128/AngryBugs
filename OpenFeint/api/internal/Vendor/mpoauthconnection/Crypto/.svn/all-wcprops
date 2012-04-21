@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Vendor/mpoauthconnection/Crypto
+END
+Base64Transcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Vendor/mpoauthconnection/Crypto/Base64Transcoder.h
+END
+hmac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Vendor/mpoauthconnection/Crypto/hmac.mm
+END
+Base64Transcoder.mm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Vendor/mpoauthconnection/Crypto/Base64Transcoder.mm
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Vendor/mpoauthconnection/Crypto/sha1.h
+END
+sha1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Vendor/mpoauthconnection/Crypto/sha1.mm
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Vendor/mpoauthconnection/Crypto/hmac.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/Errors
+END
+OFDeadEndErrorController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/Errors/OFDeadEndErrorController.mm
+END
+OFMustBeOnlineErrorController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/Errors/OFMustBeOnlineErrorController.mm
+END
+OFServerMaintenanceNoticeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/Errors/OFServerMaintenanceNoticeController.h
+END
+OFServerMaintenanceNoticeController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/Errors/OFServerMaintenanceNoticeController.mm
+END
+OFDeadEndErrorController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/Errors/OFDeadEndErrorController.h
+END
+OFMustBeOnlineErrorController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/Common/Errors/OFMustBeOnlineErrorController.h
+END

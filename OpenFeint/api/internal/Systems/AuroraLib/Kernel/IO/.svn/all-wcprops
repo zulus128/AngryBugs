@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO
+END
+OFBinarySource.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySource.h
+END
+OFXmlReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFXmlReader.mm
+END
+OFHttpQueryParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFHttpQueryParameter.h
+END
+OFBinaryReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinaryReader.h
+END
+OFOutputSerializer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFOutputSerializer.mm
+END
+OFHttpNestedQueryStringWriter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFHttpNestedQueryStringWriter.mm
+END
+OFBinarySdbmKeyedReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySdbmKeyedReader.mm
+END
+OFBinaryWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinaryWriter.h
+END
+OFTransactionalSaveFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFTransactionalSaveFile.h
+END
+OFISerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFISerializer.h
+END
+OFKeyValuePair.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFKeyValuePair.mm
+END
+OFXmlReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFXmlReader.h
+END
+OFDictionaryWriter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFDictionaryWriter.mm
+END
+OFHttpQueryParameter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFHttpQueryParameter.mm
+END
+OFBinarySdbmKeyedWriter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySdbmKeyedWriter.mm
+END
+OFBinarySink.mm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySink.mm
+END
+OFISerializerKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFISerializerKey.h
+END
+OFXmlWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFXmlWriter.h
+END
+OFBinarySdbmKeyedReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySdbmKeyedReader.h
+END
+OFKeyValuePair.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFKeyValuePair.h
+END
+OFISerializer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFISerializer.mm
+END
+OFBinaryKeyed.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinaryKeyed.h
+END
+OFBinarySdbmKeyedWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySdbmKeyedWriter.h
+END
+OFBinarySink.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySink.h
+END
+OFInputSerializer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFInputSerializer.mm
+END
+OFBinaryKeyedReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinaryKeyedReader.mm
+END
+OFISerializer.inl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFISerializer.inl
+END
+OFBinaryKeyedWriter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinaryKeyedWriter.mm
+END
+OFBinarySource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinarySource.mm
+END
+OFSdbmSerializerKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFSdbmSerializerKey.h
+END
+OFInputSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFInputSerializer.h
+END
+OFHttpQueryStringWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFHttpQueryStringWriter.h
+END
+OFBinaryKeyedReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinaryKeyedReader.h
+END
+OFOutputSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFOutputSerializer.h
+END
+OFHttpNestedQueryStringWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFHttpNestedQueryStringWriter.h
+END
+OFDictionaryWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFDictionaryWriter.h
+END
+OFBinaryKeyedWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFBinaryKeyedWriter.h
+END
+OFTransactionalSaveFile.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/IO/OFTransactionalSaveFile.mm
+END

@@ -1,0 +1,149 @@
+10
+
+dir
+7
+http://zulus@myownapple.unfuddle.com/svn/myownapple_xcoded/AngryBugs/OpenFeint/resources/Common/DashboardPages
+http://zulus@myownapple.unfuddle.com/svn/myownapple_xcoded
+
+
+
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e04ca137-c1ef-44cd-8664-ed933ba483a0
+
+Inbox
+dir
+
+FindUser
+dir
+
+GameDiscoveryPages
+dir
+
+Ticker
+dir
+
+NowPlayingPage
+dir
+
+FriendsPage
+dir
+
+Leaderboards
+dir
+
+Common
+dir
+
+RemoveCredential
+dir
+
+GameProfile
+dir
+
+NewsLetter
+dir
+
+SelectProfilePicture
+dir
+
+ProfilePage
+dir
+
+RootControllerOf.xib
+file
+
+
+
+
+2010-12-16T08:31:53.000000Z
+860ba32ed05e3e38da5e5d993dfef879
+2010-12-16T08:27:02.116414Z
+7
+zulus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19987
+
+ChallengePages
+dir
+
+DiscoveryPage
+dir
+
+WhosPlaying
+dir
+
+PlayedGame
+dir
+
+InviteFriends
+dir
+
+FanClub
+dir
+
+Conversation
+dir
+
+Forums
+dir
+
+Achievements
+dir
+
+MyFeint
+dir
+
+ChatRoom
+dir
+
+UserSetting
+dir
+
+Announcements
+dir
+
+InstantMessaging
+dir
+
+RemoveDeviceFromAccount
+dir
+
+User
+dir
+

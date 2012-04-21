@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup
+END
+OFUseNewOrOldAccountController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFUseNewOrOldAccountController.h
+END
+OFResetPasswordController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFResetPasswordController.h
+END
+OFUseNewOrOldAccountController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFUseNewOrOldAccountController.mm
+END
+OFChangeNameController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFChangeNameController.h
+END
+OFResetPasswordController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFResetPasswordController.mm
+END
+OFAccountSetupBaseController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFAccountSetupBaseController.h
+END
+OFChangeNameController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFChangeNameController.mm
+END
+OFChangePasswordController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFChangePasswordController.h
+END
+OFAccountSetupBaseController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFAccountSetupBaseController.mm
+END
+OFChangePasswordController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFChangePasswordController.mm
+END
+OFChangeEmailController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFChangeEmailController.h
+END
+OFChangeEmailController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/ui/Controllers/AccountSetup/OFChangeEmailController.mm
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage
+END
+OFS3Response.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFS3Response.h
+END
+OFS3Response.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFS3Response.mm
+END
+OFCompressableData.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCompressableData.h
+END
+OFCloudStorageBlob.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCloudStorageBlob.h
+END
+OFCompressableData.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCompressableData.mm
+END
+OFCloudStorageBlob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCloudStorageBlob.mm
+END
+OFCloudStorageService.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCloudStorageService.h
+END
+OFCloudStorageService.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCloudStorageService.mm
+END
+OFS3UploadParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFS3UploadParameters.h
+END
+OFCloudStorageStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCloudStorageStatus.h
+END
+OFS3UploadParameters.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFS3UploadParameters.mm
+END
+OFCloudStorageStatus.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/CloudStorage/OFCloudStorageStatus.mm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ImageManagement
+END
+OFImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ImageManagement/OFImageCache.h
+END
+OFImageCache.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ImageManagement/OFImageCache.mm
+END
+OFImageLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ImageManagement/OFImageLoader.h
+END
+OFImageLoader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ImageManagement/OFImageLoader.mm
+END

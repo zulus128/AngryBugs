@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/delegates
+END
+OFChallengeDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/delegates/OFChallengeDelegate.h
+END
+OpenFeintDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/delegates/OpenFeintDelegate.h
+END
+OFDelegatesContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/delegates/OFDelegatesContainer.h
+END
+OFNotificationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/delegates/OFNotificationDelegate.h
+END
+OFDelegatesContainer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/delegates/OFDelegatesContainer.mm
+END

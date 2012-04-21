@@ -1,0 +1,15 @@
+//
+// Prefix header for all source files of the 'Beetles' target in the 'Beetles' project
+//
+
+#ifdef __OBJC__
+
+	#define OF_EXCLUDE_ZLIB
+
+	#import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+	#import "OpenFeintPrefix.pch"
+
+
+#endif

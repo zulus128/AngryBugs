@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ResourceSerializers
+END
+OFResourceNameMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ResourceSerializers/OFResourceNameMap.h
+END
+OFResourceNameMap.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ResourceSerializers/OFResourceNameMap.mm
+END
+OFResourceControllerMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ResourceSerializers/OFResourceControllerMap.h
+END
+OFResourceControllerMap.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ResourceSerializers/OFResourceControllerMap.mm
+END
+OFResourceDataMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ResourceSerializers/OFResourceDataMap.h
+END
+OFResourceDataMap.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/ResourceSerializers/OFResourceDataMap.mm
+END

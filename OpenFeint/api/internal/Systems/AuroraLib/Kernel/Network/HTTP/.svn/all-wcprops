@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP
+END
+OFHttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFHttpRequest.h
+END
+OFHttpServiceObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFHttpServiceObserver.h
+END
+OFHttpRequest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFHttpRequest.mm
+END
+OFHttpServiceRequestContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFHttpServiceRequestContainer.h
+END
+OFBlobDownloadObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFBlobDownloadObserver.h
+END
+OFBlobDownloadObserver.mm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFBlobDownloadObserver.mm
+END
+OFHttpRequestObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFHttpRequestObserver.h
+END
+OFHttpService.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFHttpService.h
+END
+OFHttpService.mm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/myownapple_xcoded/!svn/ver/7/AngryBugs/OpenFeint/api/internal/Systems/AuroraLib/Kernel/Network/HTTP/OFHttpService.mm
+END
