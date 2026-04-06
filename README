@@ -1,0 +1,49 @@
+# AngryBugs
+
+Early-stage iOS game prototype developed with Objective-C and Cocos2d.
+
+## Overview
+
+AngryBugs is an early mobile game project created as part of hands-on work in native iOS development and 2D game mechanics.
+
+The project demonstrates experience with game structure, animation assets, scene management, and user interaction in a native iOS environment.
+
+## Features
+
+- 2D mobile game prototype
+- Native iOS implementation
+- Sprite-based animations and assets
+- Scene and interaction logic
+- Early integration with mobile game frameworks
+
+## Tech Stack
+
+- Objective-C
+- Cocos2d
+- C / C++
+- Xcode
+- iOS SDK
+
+## Role
+
+Full-cycle development:
+- Project architecture
+- Gameplay logic implementation
+- UI and scene setup
+- Asset integration
+- Testing and iteration
+
+## Note
+
+This repository represents an early phase of my software engineering career and reflects long-term hands-on experience in mobile development.
+
+## Author
+
+**Vadim Kassin**  
+Senior Mobile & Backend Developer
+
+Based between Turkey and Kazakhstan, working remotely with international clients.
+
+## Contact
+
+- Email: vgzulus@gmail.com
